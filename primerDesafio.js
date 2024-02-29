@@ -33,4 +33,4 @@ if (edadDeUsuario >= 18){
     alert('¡Puedes obtener tu licencia de conducir!')
 }
 
-/*Nota: Juntar multiples variables de la siguiente manera es una buena practica - let nombre = 'Luna'; edad = '25', etc
+/*Nota: Juntar multiples variables de la siguiente manera es una buena practica - let nombre = 'Luna'; edad = '25', etc*/
